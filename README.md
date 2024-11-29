@@ -1,7 +1,3 @@
-Here is an example of a README file you can use for your GitHub repository:
-
----
-
 # Tweet Sentiment Analysis Web App
 
 This is a Flask-based web application for sentiment analysis of tweets and text. The application uses the Twitter API to fetch tweets based on a search query and performs sentiment analysis on those tweets. It also allows users to perform sentiment analysis on their own input text.
@@ -92,11 +88,6 @@ tweet-sentiment-analysis/
 ├── requirements.txt       # List of Python dependencies
 └── README.md              # This file
 ```
-
-## License
-
-This project is licensed under the MIT License - see the [LICENSE](LICENSE) file for details.
-
 ## Acknowledgements
 
 - The `tweepy` library for interacting with the Twitter API.
@@ -104,5 +95,3 @@ This project is licensed under the MIT License - see the [LICENSE](LICENSE) file
 - Flask for building the web application.
 
 ---
-
-You can replace the `requirements.txt` with the actual dependencies if you want to include that in the repo.
